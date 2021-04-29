@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">RedditApp</string>
+    <string name="username">u/bestredditapp</string>
+    <string name="perfil">My profile</string>
+    <string name="coins">Reddit coins</string>
+    <string name="premium">Reddit Premium</string>
+    <string name="saved">Saved</string>
+    <string name="history">History</string>
+    <string name="logout">Log Out</string>
+    <string name="styleAvatar">Style Avatar</string>
+    <string name="karmaNumber">1</string>
+    <string name="karmaText">Karma</string>
+    <string name="ageNumber">8</string>
+    <string name="ageText">Reddit age</string>
+    <string name="muyLejosText">Llegaste demasiado lejos amigo</string>
+
+    <!--Login Screen-->
+    <string name="login">Log in to Reddit</string>
+    <string name="terms">By continuing, you agree to our User Agreement and privacy Policy.</string>
+    <string name="buttonGoogle">Continue with Google</string>
+    <string name="buttonApple">Continue with Apple</string>
+    <string name="or">OR</string>
+    <string name="hintUsername">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="newReddit">New to Reddit?</string>
+    <string name="signUp">Sign up</string>
+    <string name="forgotPass">Forgot password</string>
+    <string name="buttonContinue">Continue</string>
+
+    <!--Register Screen-->
+    <string name="createAcc">Create an account</string>
+    <string name="checkboxText">I agree to receive emails about cool stuff on Reddit.</string>
+    <string name="hintEmail">Email</string>
+    <string name="already">Already a Redditor?</string>
+    <string name="logText">Log in</string>
+
+    <!--Post Screen-->
+    <string name="chooseCom">Choose a community</string>
+    <string name="addTitle">An interesting title</string>
+    <string name="postText">Your text post (optional)</string>
+
+    <!--Comment Screen-->
+    <string name="addComment">Add a comment</string>
+
+    <!--Add comments screen-->
+    <string name="titleAddComment">Add comment</string>
+    <string name="hintAddComment">Your comment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="notifications">Notifications</string>
+    <string name="messages">Messages</string>
+    <string name="menu">Menu</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="post">Post</string>
+</resources>

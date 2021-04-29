@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_item_one"
+            android:icon="@drawable/ic_baseline_account_box_24"
+            android:title="@string/perfil"/>
+        <item
+            android:id="@+id/nav_item_two"
+            android:icon="@drawable/ic_baseline_attach_money_24"
+            android:title="@string/coins"
+            />
+        <item
+            android:id="@+id/nav_item_three"
+            android:icon="@drawable/ic_shield"
+            android:title="@string/premium" />
+
+        <item
+            android:id="@+id/nav_item_four"
+            android:icon="@drawable/ic_baseline_beenhere_24"
+            android:title="@string/saved" />
+
+        <item
+            android:id="@+id/nav_item_five"
+            android:icon="@drawable/ic_baseline_history_24"
+            android:title="@string/history" />
+
+    </group>
+
+</menu>

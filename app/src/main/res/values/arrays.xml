@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comunidades">
+        <item>Choose a community</item>
+        <item>Pokemon</item>
+        <item>Memes</item>
+        <item>shposting</item>
+    </string-array>
+</resources>

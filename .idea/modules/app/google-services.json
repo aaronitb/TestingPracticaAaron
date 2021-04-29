@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "779704036149",
+    "firebase_url": "https://redditdb-9c2fc-default-rtdb.firebaseio.com",
+    "project_id": "redditdb-9c2fc",
+    "storage_bucket": "redditdb-9c2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779704036149:android:73d036f6b3d8e095a33a7c",
+        "android_client_info": {
+          "package_name": "cat.itb.reddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779704036149-3vlbagrqurb1j3k2ga9k5dhmiupnlshp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8S4WKloDE1uwXJvFZM-Ny5xgupP0XSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779704036149-3vlbagrqurb1j3k2ga9k5dhmiupnlshp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779704036149:android:9eaf8eb32119802fa33a7c",
+        "android_client_info": {
+          "package_name": "cat.itb.redditapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779704036149-gf6pt3aa5n8ku0fa2r32dr6k6a48sce2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cat.itb.redditapp",
+            "certificate_hash": "d2982ef1a661c06897f5905eaff1e57efa9c9598"
+          }
+        },
+        {
+          "client_id": "779704036149-3vlbagrqurb1j3k2ga9k5dhmiupnlshp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8S4WKloDE1uwXJvFZM-Ny5xgupP0XSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779704036149-3vlbagrqurb1j3k2ga9k5dhmiupnlshp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
